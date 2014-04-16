@@ -8,6 +8,8 @@
 1. `npm i`
 2. `fill your Client ID, Client secret, Redirect URL in main.ls`
 3. `lsc main.ls`
+4. paste url to browser and copy code
+5. paste code and enjoy your live streaming on youtube!!
 
 # License
 
