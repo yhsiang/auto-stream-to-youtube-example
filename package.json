@@ -1,0 +1,23 @@
+{
+  "name": "auto-stream-to-youtube-example",
+  "version": "0.1.0",
+  "description": "stream any content to youtube automatically with live-streaming-api, FFmpeg, nodejs",
+  "main": "main.ls",
+  "dependencies": {
+    "LiveScript": "~1.2.x",
+    "fluent-ffmpeg": "^1.7.0",
+    "googleapis": "^0.7.0",
+    "moment": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "googleapis",
+    "youtube",
+    "ffmpeg"
+  ],
+  "author": "Yuanhsiang Cheng",
+  "license": "MIT"
+}
