@@ -1,7 +1,8 @@
-# stream to youtube automatically with ffmpeg
+# Stream to youtube automatically with ffmpeg
 
 # Dependencies
 1. nodejs
+2. ffmpeg
 
 # Usage
 1. `npm i`
